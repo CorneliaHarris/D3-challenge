@@ -20,7 +20,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 4. This homeworks utilizes both **html** and **Javascript** so be sure to add all the necessary files. These will be the main files to run for analysis.
 
-5. Push the above changes to GitHub or GitLab.
+
 
 ## Your Task
 
