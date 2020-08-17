@@ -54,4 +54,3 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
