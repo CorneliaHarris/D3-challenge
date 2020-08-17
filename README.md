@@ -45,11 +45,6 @@ While the ticks on the axes allow us to infer approximate values for each circle
 ![8-tooltip](Images/8-tooltip.gif)
 
 
-* Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
-
-* Completion of all steps in the core assignment
-
-* Coherency of scatter plot (labels, ticks)
 
 * Visual attraction
 
